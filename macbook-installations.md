@@ -14,11 +14,11 @@ from official web site
 https://stackoverflow.com/questions/64040393/open-a-folder-in-vscode-through-finder-in-macos
 
 ### connect git with github
-+ set the username and user email glovally in git
++ set the username and user email glovally in git  
 git config --global user.name faikarda  
-git config --global user.email faikarda2004@gmail.com
+git config --global user.email faikarda2004@gmail.com  
 
-+ create a personel token in github
-under developer settings
++ create a personel token in github  
+under developer settings  
 
 
